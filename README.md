@@ -6,7 +6,7 @@ Supervisor: Prof. Grüneis, Author: Manuel Ulreich
 
 README
 
-The simulation can either be run with input from the console (the program asks for input after starting it), or directly with precompiled parameters. The readme is intended as a general overview, as the code has a lot of comments and is more or less self-explanatory, especially in context of the written project thesis.
+The simulation can either be run with input from the console (the program asks for input after starting it), or directly with precompiled parameters. The readme is intended as a general overview, as the code has a lot of comments and is more or less self-explanatory.
 The codebase essentially consists of four classes in the "PA" namespace:
 1.	Hamiltonian
 2.	Solver
