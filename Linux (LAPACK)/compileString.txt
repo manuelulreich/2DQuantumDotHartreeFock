@@ -1,0 +1,1 @@
+g++ -std=c++17 Constants.h BicubicInterpolator.h Hamiltonian.h Solver.h Solver.cpp SolverInput.h SolverInput.cpp PAGrüneis.cpp -llapacke -lpthread -lstdc++fs -llapacke -lpthread -lstdc++fs -O2
